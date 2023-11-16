@@ -100,7 +100,7 @@ Shows visualizations from Call Center Trends
 	
 - Average Speed of Answers by Topic: Payment-related topics have the `highest average speed of answers at 68.20 seconds`, followed by technical support at 68.11 seconds. Streaming has the lowest at 66.89 seconds.
 
-- Highest Call Satisfaction by Agent: 	Martha leads with the `highest satisfaction rate of 3.47``, followed by Dan and Diene.
+- Highest Call Satisfaction by Agent: 	Martha leads with the `highest satisfaction rate of 3.47`, followed by Dan and Diene.
 
 - `Highest Call Resolution Rate by Agent: Dan takes the lead in call resolution rate`, followed by Joe and Becky.
 
